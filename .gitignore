@@ -1,0 +1,17 @@
+### Android / IntelliJ files ###
+
+.idea/
+build/
+*.iml
+.gradle
+/local.properties
+
+/.idea/libraries
+.DS_Store
+/captures
+.externalNativeBuild
+
+*.pom
+gradle
+gradlew
+gradlew.bat
