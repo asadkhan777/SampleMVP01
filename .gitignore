@@ -1,6 +1,6 @@
 ### Android / IntelliJ files ###
 
-.idea/
+.idea
 build/
 *.iml
 .gradle
